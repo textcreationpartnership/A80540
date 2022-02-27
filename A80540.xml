@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of two remonstrances, brought over the river Stix in Carons ferry-boate; by the ghost of Sir John Suckling. The one, to the Earle of New-Castle and the popish army. The other, to the Protestants of England. Wherein is many things mentioned worthy the due observation of all those that love God and King Charles; and desire peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80540</idno>
+            <idno type="STC">Wing C6234</idno>
+            <idno type="STC">Thomason E90_5</idno>
+            <idno type="STC">ESTC R20215</idno>
+            <idno type="EEBO-CITATION">99862545</idno>
+            <idno type="PROQUEST">99862545</idno>
+            <idno type="VID">155729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of two remonstrances, brought over the river Stix in Carons ferry-boate; by the ghost of Sir John Suckling. The one, to the Earle of New-Castle and the popish army. The other, to the Protestants of England. Wherein is many things mentioned worthy the due observation of all those that love God and King Charles; and desire peace.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for a faithfull Royalisti [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 20th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Suckling, John, --  Sir, 1609-1642.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155729:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> COPY OF Two Remonſtrances, <hi>Brought Over</hi> THE RIVER STIX <hi>IN</hi> Carons Ferry-Boate; <hi>By the Ghoſt of Sir</hi> JOHN SUCKLING. The one, <hi>to the Earle of</hi> New-Caſtle, <hi>and the Popiſh Army.</hi> The other, <hi>to the Proteſtants of</hi> England. Wherein is many things mentioned worthy the due Obſerva<g ref="char:EOLhyphen"/>tion of all thoſe that love God and King <hi>CHARLES;</hi> and deſire Peace.</p>
+            <p>London <hi>Printed for a faithfull Royaliſti, Anno Dom.</hi> MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:155729:2"/>
+            <pb facs="tcp:155729:2"/>
+            <head>To the Earle of NEWCASTLE, and his Popiſh Army.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords and Gentlemen and the reſt of this Popiſh Army, I beſeech you be not acaſhed to behold the raiſed againe from the deade in the world, ſith the ſights and teares of poore <hi>England,</hi> have broken up my Tombe, and the cruell intentions of the motrous of my heart when I was li<g ref="char:EOLhyphen"/>ving, have violently drawne my poore Soule to cry a<g ref="char:EOLhyphen"/>loud to you, but alas I feare that my admonitions will prove as unprofitable as charitable.</p>
+            <p>Do but call to minde our former Treaſons, when I was as active as any Papiſt.</p>
+            <p n="1">1 To ſeize on the Tower, the Livetenant to have twenty thouſand pounds, his Sonne to marry with Sraffords daughter, with meanes to live on; Strafford to be ſent into IRELAND, an to ſend an Army hi<g ref="char:EOLhyphen"/>ther and to go into France to prepare an Army from thence: this you know god prevented, and <hi>ſtraford</hi> was beheaded, and yet <hi>Ireland</hi> Rebel'd. 2. to poſeſſe the northerne Armies of an ill oppinion of the houſe, and to make them advance to <hi>London,</hi> this you know was prevented alſo. 3. To deliver <hi>Portsmouth</hi> into Iar<g ref="char:EOLhyphen"/>mins hands to be a Randevoues for the french Papiſts but he was faine to fly as well as I. 4. The Biſhops to Raiſe two thouſand horſe. 5. The Lord of New<g ref="char:EOLhyphen"/>Caſtle to be made Generall of the Northren Army, and to have met them with the Army at <hi>Nottingham.</hi>
+            </p>
+            <pb facs="tcp:155729:3"/>
+            <p>It may be, you will boaſt of theſe two laſt projects, but I would you would conſider what I neglected, and not drawe upon your ſelves murthers, plagues, fa<g ref="char:EOLhyphen"/>mines, and other miſeries; do you not here the voyce of innocent bloud, which cryes out &amp; ſayes that your cruelty are great crimes before God, and your gnilti<g ref="char:EOLhyphen"/>neſſe of cruell murther; you may one day feele that trouble of ſoule whereof I am now to ſenſible, for the great diſorder of thoſe intentions which we carry with fire at our backes, whileſt we played a thouſand crowns at Dice upon a table after dinner &amp;c. But whileſt you are thus the murtherers of others, you ſhall alſo moſt aſſuredly bring deſtruction upon your owne ſoules; And you that are Proteſtants among them, this ſhal<g ref="char:EOLhyphen"/>be the greateſt favour that ſome of you ſhall obtaine, that you ſhalbe the laſt that ſhalbe devoured.</p>
+            <p>Were it not better then, that you ſhould joyne your affections, your courage, and that force which as yet you have reſting, altogether to ſave and defend your <hi>KING,</hi> Parliament, Religion, Law, and Liberty, from this ſheeppracke; and rather drowne your Enemies therein. It may be that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lords and Gentle<g ref="char:EOLhyphen"/>men will ſay, that this con<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nction is impoſſible, and in vaine; &amp; as <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as you ſhould not be ſeconded by the Nobility. In may be that your fidility formerly paſt and committed hath much devided your affecti<g ref="char:EOLhyphen"/>ons, but now you perceive and know the damage, and hurt that this infi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ility hath done unto you; and the great good from which it doth with draw you, ſet up<g ref="char:EOLhyphen"/>on the Papiſts the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof. It is a ſad thing that men ſhould never ceaſe to ſinn; and that your confidences ſhould never ſtirre nor move you to Re<g ref="char:EOLhyphen"/>pentance; ſpecially at this day: when doth one of your
+<pb facs="tcp:155729:3"/>lives and good are intereſt therein, have we not beene affections now ſeperated to be reioyned and united a<g ref="char:EOLhyphen"/>gaine, thereby to withſtand and oppoſe a common e<g ref="char:EOLhyphen"/>nemy: Doggs do the ſame againſt Wolves, to ſave their flockes; and children againſt ſtrangers to preſerve their owne houſes: Doe it then to defend your Kings honour, your Native Country, Lawes and Liberty, Religion, Eſtates: In a word to ſave that, for the which you ſware, and are devided among your ſelves; if not, then hereafter do not pretend that there is any life, dwelling ſtate, quality, honour, or good whatſoe<g ref="char:EOLhyphen"/>ver reſting to be ſever for our England, I and no other way of ſafety for you: it is not fight, nor deſperate reſolutions that can ſave you; I cannot ſee any hope otherwiſe of any honeſt and honourable death, is the only griefe that a man can do nothing in this reſpect: do not cauſe the moſt couragious and beſt beloved of God, to dye for ſorrow, that is they may nor be kept as a pray to the Papiſts Tyrany, and the object of their cruelty.</p>
+         </div>
+         <div type="part">
+            <head>To the Proteſtants of ENGLAND.</head>
+            <p>YOu famous Nobility, the true Proteſtants of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that have obtained your great Priviledges; for having ſo often beene the Fundamentall ſtones of this ſtate cimented with your bloud: Infinite times the protections of our Kings, bridles againſt uſurpati<g ref="char:EOLhyphen"/>ons of ſtrangers, can you degenerate, or become faint<g ref="char:EOLhyphen"/>hearted, and bandon the enſignes of your vertues, ſo dearely woone and obtained for prey to your enemies.</p>
+            <pb facs="tcp:155729:4"/>
+            <p>Suppoſe that an upſtart Popiſh Army hath thoſe that diſcover their treaſon and tyranny and are able to approove them for the ſame, it is much if the chil<g ref="char:EOLhyphen"/>dren that are borne under it, may be ſure of their lives the papiſts fearing will no doubt be cruell againſt you then with a good will and couragious heart, follow the good motious of your King and Parliament: I know that many there are in the Kingdome, that have labour<g ref="char:EOLunhyphen"/>ed to coole the heart of your zeale, but let not them hinder nor with draw you, in this worthy occaſion, to joyne with thoſe who ſeeke the preſervation of your Country and your ſelves. And you my Maſters of the Commonnulty, effect this laſt worke, for the healing of your diſeaſe, for which purpoſe you have ſent your repreſentative body to ſtand for you in their places in the high Court of Parliament, they are faithfull to them, but you procure your owne ſickneſſe by being luld a ſleepe with falſe pretences of the Papiſts, there<g ref="char:EOLhyphen"/>by to pull the sky of from their backs: you are fedd with falſe pretences, to maintaine and ſupport your patience and to lay ſugar upon the long pills of poyſon which they make you ſwallow downe, many of you are ſo ſicke that you feele not your paine, and many that feele it can finde no eaſe but fighs, or at leaſt ſome ſilent groans; it is not enough, you muſt cry out, and that ſo loud that you may be underſtood, ſpeake bold<g ref="char:EOLhyphen"/>ly and flatter not your ſelves, feare not your enemies, you cannot be worſe then you are, but you may hope for change, tell them that you have ſeene your laſt li<g ref="char:EOLhyphen"/>berty (if Papiſts ſhould triumph) and that you now feele the extreamity of their treachiry, unſlpeeſes be remedets, it is now time or never, to free the ſpirit of our Royall King, and his ſtate, and to pull away the
+<pb facs="tcp:155729:4"/>foote that is ready to tread upon his belly, drownd his enemies in your bloud, I intend not hereby to make or intice you to a greater comotion, or to ſtirr up new diſorders amongſt your ſelves, my endeavouring is cleane contrary, you aught to loyne and remit all your affection and intereſt together for the peace of diſtreſ<g ref="char:EOLhyphen"/>ſed <hi>England,</hi> Then altogether with one voice require that the Popiſh Army may be called in queſtian to yel'd account of their Reſuing and commiſſion; they for their ill doing are ſubject to the Law, and to juſtice, as well as now they openly dominier in their Rande<g ref="char:EOLhyphen"/>vouz, as when they ſeduced in corners.</p>
+            <p>Is it not great reaſon that every one ſhould yeild account of their actions, doth not our Royall King himſelfe gratifie his Subjects with declarations, why then ſhould they that are ſubjects refuſe to appeare before the high Court of Parliament before that ho<g ref="char:EOLhyphen"/>nourable Senate at <hi>VVeſtminſter,</hi> where Papiſh hath no place, their they ſhould obtaine but too great ho<g ref="char:EOLhyphen"/>nour to be tryed and Iudged by their peers, if conſience make them ſhunn and abhorr their ſtate, and their courage perſwade them (before they be accuſed) that they ſhall be overthrowne, they condemne themſelves and ſo their can remaine no more but their execution behind, you have reaſon and power enough beſide God on your ſide if you aſſiſt this cauſe to do it by armes, they ſhall not ſo eſcape Iuſtice but that ſhee will try<g ref="char:EOLhyphen"/>umph over you God will hinder them from with<g ref="char:EOLhyphen"/>drawing them ſelves from the law and from the exam<g ref="char:EOLhyphen"/>ple from which he hath refered them, aſſure your ſelves that the very conſiences of their cheife agents in their Rebellion agatnſt the King and Parliament which have faild them in their preteous deſignes will alſo faile
+<pb facs="tcp:155729:5"/>them in bringing them to puniſhment you muſt extend it unto all the principall executioners of their deſign againſt the King and Parliament, where the intyre ex<g ref="char:EOLhyphen"/>ecution to the Parliament let them reedify the parma<g ref="char:EOLhyphen"/>dies that is fallen downe, and ſuffer them to drive away thoſe plagues and evill cankers of the ſtate, thoſe tyrant of mens ſpirits and conſciences which doth daly induce athouſand tyrants in England, would inable our King our Parliment and liberties ſlaves and and Subjects to ſtrangers</p>
+            <p>I have heard that the King of <hi>France</hi> this Kings Fa<g ref="char:EOLhyphen"/>ther when the Marſhal' <hi>Ancie</hi> died, ſaid that then he began to Raigne, if England deliver his Majeſty from theſe tyrants that have made us a thouſand times morn like france for the Marſhal'd <hi>Ancre,</hi> England will then give his Majeſty great reaſon to ſay that he begins to live in the reſurrection of his ſtate, make ſpeed then to patten this generous deſigne, let every one of you both generall and particular that are tru Britaines be aſhamed to be prevented, is it poſſible that of ſo great a good which cannot be ſound enough conceived, the execution ſhould be deferred untill the morrow, for my part al<g ref="char:EOLhyphen"/>though <hi>I</hi> am but a Ghoſt, I have bene as violent an ene<g ref="char:EOLhyphen"/>my againſt England as any of them, yet I am very ſory for it, and with too late repentance cure it, and I will now withall ſpeed goe to aſſaile and torment their cou<g ref="char:EOLhyphen"/>rages, and conſienſes, and teare them in peſes with con<g ref="char:EOLhyphen"/>tinuall feares and terrours, to all my good freinds.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
